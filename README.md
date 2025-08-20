@@ -1,1 +1,2 @@
 # SQL_Queries_Project
+These SQL files contain a collection of queries designed for data management and analysis. The SQL_Queries.sql file holds various queries for day-to-day data retrieval and manipulation, while the SQL_Project.sql file contains a set of queries specifically for a project. Together, these files serve as a comprehensive toolkit for anyone looking to easily manage and analyze data within a database.
